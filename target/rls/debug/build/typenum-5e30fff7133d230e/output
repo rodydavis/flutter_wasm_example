@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/rodydavis/Developer/GitHub/examples/flutter_ffi_plugin/dart_wasmer/target/rls/debug/build/typenum-5e30fff7133d230e/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/rodydavis/Developer/GitHub/examples/flutter_ffi_plugin/dart_wasmer/target/rls/debug/build/typenum-5e30fff7133d230e/out/op.rs
